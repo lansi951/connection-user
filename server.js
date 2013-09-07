@@ -1,3 +1,11 @@
+/*
+ * Simple connection user server
+ * by Lansi
+ * eoz754@naver.com
+ * blog.lansi.kr
+ * @lansi951
+ */
+
 var io = require('socket.io');
 var express = require('express');
 var redis = require('redis'),
